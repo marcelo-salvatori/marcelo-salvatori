@@ -3,7 +3,7 @@
 ## Hi there! My name is Marcelo Salvatori. 👋
 
 ### About me
-- I'm an IT Consultant from Recife living in Lisbon. 
+- I'm an Cloud Infrastructure Engineer from Recife. 
 - I'm a Jiu Jitsu blue belt 
 - I love to eat the local food of every place I visit
 - I'm a good listener
